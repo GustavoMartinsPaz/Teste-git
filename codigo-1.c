@@ -2,7 +2,7 @@
 
 int main() {
 
-	printf("Vai Corinthians!\n");
+	printf("Sorvete com fritas!\n");
 
 	return 0;
 }
