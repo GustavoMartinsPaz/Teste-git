@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int a = 98788985;
-    int b = 134563;
+    int a = 111111;
+    int b = 2222222;
     int soma;
 
     soma = a + b;
