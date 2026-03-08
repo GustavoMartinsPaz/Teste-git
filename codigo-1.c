@@ -2,7 +2,7 @@
 
 int main() {
 
-	printf("Sorvete com fritas!\n");
+	printf("Chips e Sorvete!\n");
 
 	return 0;
 }
